@@ -1,0 +1,5 @@
+cluster,cluster_label,accidents,avg_severity_code,most_common_severity,peak_day,peak_hour,common_road_type,common_weather,mean_latitude,mean_longitude
+0,Cluster 0,1086,2.8,Slight,Wednesday,17,Single carriageway,"Fine, no high winds",53.76544154604052,-0.35497938581952115
+2,Cluster 2,168,2.79,Slight,Saturday,16,Single carriageway,"Fine, no high winds",54.02873851190476,-0.2971621607142857
+3,Cluster 3,92,2.76,Slight,Friday,16,Single carriageway,"Fine, no high winds",53.73769119565216,-0.8257650108695651
+1,Cluster 1,74,2.59,Slight,Sunday,13,Single carriageway,"Fine, no high winds",53.93040748648649,-0.7104614054054054

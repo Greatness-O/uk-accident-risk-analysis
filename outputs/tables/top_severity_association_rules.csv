@@ -1,0 +1,21 @@
+antecedents_text,consequent_text,support,confidence,lift
+"road_type_label_Single carriageway, speed_limit_band_51–60, urban_or_rural_area_label_Rural",Serious,0.03103729921045467,0.2906309751434034,1.4864927021085754
+"road_type_label_Single carriageway, speed_limit_band_51–60",Serious,0.031666893547508845,0.28877337264333924,1.4769916069193874
+"speed_limit_band_51–60, urban_or_rural_area_label_Rural",Serious,0.03319833923223523,0.2798938383186285,1.4315753777466633
+speed_limit_band_51–60,Serious,0.03415123876939831,0.2765605622157916,1.4145266423235545
+"road_surface_conditions_label_Dry, road_type_label_Single carriageway, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.03802239313912333,0.269671735457398,1.3792923019460717
+"road_surface_conditions_label_Dry, road_type_label_Single carriageway, urban_or_rural_area_label_Rural",Serious,0.03952831472910427,0.2677346856451334,1.3693848569184683
+"light_conditions_label_Daylight, road_surface_conditions_label_Dry, road_type_label_Single carriageway, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.030748026136673018,0.2668537251716754,1.3648790009476952
+"road_type_label_Single carriageway, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.04723659134222706,0.26511316970680926,1.35597656721756
+"light_conditions_label_Daylight, road_surface_conditions_label_Dry, road_type_label_Single carriageway, urban_or_rural_area_label_Rural",Serious,0.03176048189490879,0.2640962150689777,1.3507751407461863
+"light_conditions_label_Daylight, road_type_label_Single carriageway, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.03609106997005173,0.26172260612043435,1.3386348230187717
+"road_type_label_Single carriageway, urban_or_rural_area_label_Rural",Serious,0.058662877756602234,0.25890879050730353,1.3242429765477122
+"light_conditions_label_Daylight, road_type_label_Single carriageway, urban_or_rural_area_label_Rural",Serious,0.04240402940375715,0.25264865412885895,1.2922242041640368
+"road_surface_conditions_label_Dry, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.04935509120609856,0.24294329508334034,1.2425841223200822
+"road_surface_conditions_label_Dry, urban_or_rural_area_label_Rural",Serious,0.05127790634358835,0.2413503123498318,1.234436480084849
+"urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.06107915872583719,0.24129470287711752,1.2341520538452952
+"light_conditions_label_Daylight, road_surface_conditions_label_Dry, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.03955383882384971,0.24078102340998547,1.2315247331382093
+"light_conditions_label_Daylight, urban_or_rural_area_label_Rural, weather_conditions_label_Fine, no high winds",Serious,0.046224135583991285,0.23870826010544813,1.2209231531659683
+"light_conditions_label_Daylight, road_surface_conditions_label_Dry, urban_or_rural_area_label_Rural",Serious,0.04088959978219439,0.23862959285004964,1.220520793090663
+urban_or_rural_area_label_Rural,Serious,0.07603627824666485,0.235339038841343,1.2036905687230675
+"light_conditions_label_Daylight, urban_or_rural_area_label_Rural",Serious,0.054425878028859245,0.23086361831895774,1.1808000975951705

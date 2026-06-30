@@ -1,0 +1,27 @@
+cluster,cluster_label,accidents,avg_severity_code,most_common_severity,peak_day,peak_hour,common_road_type,common_weather,mean_latitude,mean_longitude
+-1,Noise / dispersed points,853,2.76,Slight,Thursday,16,Single carriageway,"Fine, no high winds",53.830510985932,-0.4305185381008206
+3,Cluster 3,141,2.78,Slight,Tuesday,17,Single carriageway,"Fine, no high winds",53.75871489361702,-0.3525583546099291
+4,Cluster 4,90,2.87,Slight,Friday,15,Single carriageway,"Fine, no high winds",53.738597666666664,-0.36030108888888884
+6,Cluster 6,73,2.85,Slight,Friday,16,Single carriageway,"Fine, no high winds",53.75322852054794,-0.3132697397260274
+2,Cluster 2,20,2.75,Slight,Friday,7,Single carriageway,"Fine, no high winds",53.759582849999994,-0.2750454
+1,Cluster 1,17,2.82,Slight,Monday,10,Single carriageway,"Fine, no high winds",53.75105447058823,-0.37556288235294116
+5,Cluster 5,17,2.88,Slight,Wednesday,18,Single carriageway,"Fine, no high winds",53.75256064705883,-0.3982073529411765
+18,Cluster 18,15,2.93,Slight,Wednesday,16,Roundabout,"Fine, no high winds",53.767511,-0.3298822
+20,Cluster 20,14,2.64,Slight,Monday,17,Dual carriageway,"Fine, no high winds",53.78546807142857,-0.36255371428571426
+17,Cluster 17,13,2.77,Slight,Saturday,11,Single carriageway,"Fine, no high winds",53.77825015384615,-0.3309863846153846
+9,Cluster 9,13,2.85,Slight,Friday,11,Single carriageway,"Fine, no high winds",54.087466846153845,-0.203419
+11,Cluster 11,13,2.85,Slight,Friday,9,Single carriageway,"Fine, no high winds",53.77958623076923,-0.4113121538461539
+14,Cluster 14,12,2.75,Slight,Friday,14,Dual carriageway,"Fine, no high winds",53.72828558333333,-0.4051898333333333
+23,Cluster 23,12,2.75,Slight,Wednesday,15,Single carriageway,"Fine, no high winds",53.77131566666666,-0.384611
+8,Cluster 8,11,3.0,Slight,Friday,17,Dual carriageway,"Fine, no high winds",53.76556145454546,-0.291232
+19,Cluster 19,11,2.91,Slight,Thursday,18,Single carriageway,"Fine, no high winds",53.769252909090916,-0.27913245454545454
+7,Cluster 7,11,2.82,Slight,Thursday,14,Dual carriageway,"Fine, no high winds",53.72563072727273,-0.4569557272727273
+16,Cluster 16,11,2.82,Slight,Monday,16,Single carriageway,"Fine, no high winds",53.775072454545466,-0.3172094545454545
+12,Cluster 12,10,3.0,Slight,Monday,15,Single carriageway,"Fine, no high winds",53.788313900000006,-0.3161799
+13,Cluster 13,10,2.8,Slight,Sunday,8,Roundabout,"Fine, no high winds",53.738135799999995,-0.3980981
+0,Cluster 0,10,2.6,Slight,Thursday,9,Dual carriageway,"Fine, no high winds",53.73296319999999,-0.38975529999999997
+22,Cluster 22,9,2.89,Slight,Friday,15,Single carriageway,"Fine, no high winds",53.75647744444445,-0.4457216666666667
+10,Cluster 10,9,2.89,Slight,Friday,8,Single carriageway,"Fine, no high winds",53.76498522222222,-0.3107907777777778
+24,Cluster 24,9,2.67,Slight,Friday,15,Single carriageway,"Fine, no high winds",53.74351266666666,-0.3743295555555555
+15,Cluster 15,8,3.0,Slight,Monday,15,Roundabout,"Fine, no high winds",53.74835337499999,-0.274530875
+21,Cluster 21,8,2.75,Slight,Friday,16,Single carriageway,"Fine, no high winds",53.743534249999996,-0.38520524999999994
