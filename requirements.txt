@@ -9,6 +9,4 @@ plotly
 folium
 ipykernel
 jupyter
-streamlit
-streamlit_folium
 nbformat
